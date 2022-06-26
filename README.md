@@ -3,4 +3,6 @@ Supervised Machine Learning - Stanford University
 
 ## Syllabus:
 -----------------------------------------
-
+Week 01: Introduction
+- Introduction
+- Regression Model
