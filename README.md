@@ -5,4 +5,4 @@ Supervised Machine Learning - Stanford University
 -----------------------------------------
 Week 01: Introduction
 - Introduction
-- Regression Model
+- Regression Model with one variable (Univariate)
