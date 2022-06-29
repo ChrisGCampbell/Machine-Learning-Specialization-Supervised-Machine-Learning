@@ -1,10 +1,10 @@
 # Machine-Learning-Coursera, Supervised Machine Learning: Regression and Classification
-[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning).
+[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 
 Taught by Prof. `Andrew Ng.` 
 
 ## Syllabus:
------------------------------------------
+
 ## Week 01: Introduction
 - Introduction
 - Supervised vs. Unsupervised Machine Learning
