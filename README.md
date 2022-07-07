@@ -15,3 +15,8 @@ Defining machine learning, supervised learning, unsupervised learning, defining 
 Improving your model's training and performance, such as vectorization, feature scaling, feature engineering and polynomial regression.
 - Multiple linear regression
 - Gradient descent in practice
+## Week 03: Classification
+- Classification with logistic regression
+- Cost function for logistic regression
+- Gradient descent for logistic regression
+- The problem with overfitting
