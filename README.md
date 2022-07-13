@@ -23,3 +23,4 @@ Improving your model's training and performance, such as vectorization, feature 
 - Cost function for logistic regression
 - Gradient descent for logistic regression
 - The problem with overfitting
+- Five Programming Assignments
