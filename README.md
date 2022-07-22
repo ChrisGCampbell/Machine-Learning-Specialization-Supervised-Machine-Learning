@@ -1,26 +1,16 @@
-# Machine-Learning-Coursera, Supervised Machine Learning: Regression and Classification
+# Machine-Learning-Specialization-Coursera
 [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 
 Taught by Prof. `Andrew Ng.` 
 
-[**Verified Certificate**]( https://coursera.org/share/0a8014e4232ed0dd8c1e757bec5f5d0f)
+[**Verified Certificate Supervised Learning**]( https://coursera.org/share/0a8014e4232ed0dd8c1e757bec5f5d0f)
 
 
 ## Syllabus:
 
-## Week 01: Introduction
+## First Course: Supervised Machine Learning
 Defining machine learning, supervised learning, unsupervised learning, defining a regression model, implementing and visualizing a cost function, implementing and optimizing gradient descent.
-- Introduction
-- Supervised vs. Unsupervised Machine Learning
-- Regression Model with one variable (Univariate)
-- Train the model with gradient descent
-## Week 02: Regression with multiple input variables
-Improving your model's training and performance, such as vectorization, feature scaling, feature engineering and polynomial regression.
-- Multiple linear regression
-- Gradient descent in practice
-## Week 03: Classification
-- Classification with logistic regression
-- Cost function for logistic regression
-- Gradient descent for logistic regression
-- The problem with overfitting
-- Five Programming Assignments
+
+## Second Course: Advanced Learning Algorithms
+
+## Third Course:
