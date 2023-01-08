@@ -1,9 +1,9 @@
- Machine Learning Specialization Coursera
+ Machine Learning Specialization DeepLearning.AI
 
 
-![](/resources/title-head.png)
+![](/title-head.png)
 
-Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
+Contains Solutions and Notes for the [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) by Andrew NG on DeepLearning AI & Coursera 
 
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
