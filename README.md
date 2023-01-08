@@ -142,19 +142,13 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 #### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
 
 
-### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
+### [Specialization Certificate](https://coursera.org/share/52752961e6e785d06b020f1783b2e57a)
 
 <br/>
 
 <br/>
 
-<hr/>
 
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreyhatguy007%2FMachine-Learning-Specialization-Coursera&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 ### Course Review :
 
@@ -165,30 +159,6 @@ This Course is a best place towards becoming a Machine Learning Engineer. Even i
 <br/>
 
 <hr/>
-
-#### An insight of what you might be able to accomplish at the end of this specialization :
-
-* <i>Write an unsupervised learning algorithm to **Land the Lunar Lander** Using Deep Q-Learning</i>
-
-    - The Rover was trained to land correctly on the surface, correctly between the flags as indicators after many unsuccessful attempts in learning how to do it.
-    - The final landing after training the agent using appropriate parameters : 
-
-https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4
-
-* <i>Write an algorithm for a **Movie Recommender System**</i>
-    
-    - A movie database is collected based on its genre.
-    - A content based filtering and collaborative filtering algorithm is trained and the movie recommender system is implemented.
-    - It gives movie recommendentations based on the movie genre.
-
-![movie_recommendation](https://user-images.githubusercontent.com/77543865/182398093-c7387754-34a9-4044-b842-0085060c3525.png)
-
-* <i> And Much More !! </i>
-
-
-Concluding, this is a course which I would recommend everyone to take. Not just because you learn many new stuffs, but also the assignments are real life examples which are *exciting to complete*. 
-
-<br/>
 
 **Happy Learning :))**
 
