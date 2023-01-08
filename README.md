@@ -139,10 +139,10 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice Quiz : Continuous state spaces](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20Quiz%20:%20Continuous%20state%20spaces)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1)
         - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
-#### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
+#### [Certificate of Completion](https://coursera.org/share/3255340fa82c7663555c8a8e81b98c3d)
 
 
-### [Specialization Certificate](https://coursera.org/share/52752961e6e785d06b020f1783b2e57a)
+### [Specialization Certificate](https://coursera.org/share/3255340fa82c7663555c8a8e81b98c3d)
 
 <br/>
 
